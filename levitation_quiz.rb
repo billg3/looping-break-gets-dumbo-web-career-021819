@@ -1,6 +1,8 @@
 
 def levitation_quiz
-	#your code here
+	puts "Please type your name:"
+    name = gets
+    puts "Your name is #{name}!"
 end
 
 
